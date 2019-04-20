@@ -49,7 +49,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	 */
 	do_action( 'generate_after_header' );
 	?>
-
+Hi there from Josh
 	<div id="page" class="hfeed site grid-container container grid-parent">
 		<div id="content" class="site-content">
 			<?php
